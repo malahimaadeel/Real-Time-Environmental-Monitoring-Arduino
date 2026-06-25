@@ -42,9 +42,6 @@ Submitted to: Sir Hamza Ahmed
 ## Circuit Diagram
 ![Circuit Diagram](circuit_diagram.jpeg)
 
-## Simulation Result
-![Simulation Result](simulation_result.jpeg)
-
 ## Real Hardware Build
 ![Hardware Build](hardware_build.jpeg)
 
